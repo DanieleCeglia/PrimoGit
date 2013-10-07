@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    self.lbOmar.text = @"ciao da Omar";
+    self.lbOmar.text = @"ciao da Omar???";
 }
 
 - (void)didReceiveMemoryWarning
