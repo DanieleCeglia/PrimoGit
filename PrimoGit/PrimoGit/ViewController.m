@@ -21,7 +21,7 @@
     self.lbOmar.text = @"ciao da Omar";
     
     self.lb1.text = @"master va avanti";
-    self.lb2.text = @"master va avanti";
+    self.lb2.text = @"branch va avanti";
 }
 
 - (void)didReceiveMemoryWarning
