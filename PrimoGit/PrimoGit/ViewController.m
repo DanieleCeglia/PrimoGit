@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    self.lbOmar.text = @"ciao da Omar";
+    self.lbOmar.text = @"ciao da Daniele";
     
     self.lb1.text = @"master va avanti";
     self.lb2.text = @"branch va avanti";
